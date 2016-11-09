@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/GiftOne.iml" filepath="$PROJECT_DIR$/GiftOne.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/greendao/greendao.iml" filepath="$PROJECT_DIR$/greendao/greendao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/greendao2/greendao2.iml" filepath="$PROJECT_DIR$/greendao2/greendao2.iml" />
     </modules>
   </component>
 </project>
