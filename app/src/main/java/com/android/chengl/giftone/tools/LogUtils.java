@@ -4,6 +4,7 @@ import android.util.Log;
 
 /**
  * Created by chengl on 2016/11/8.
+ * 这是log打印日志类
  */
 public class LogUtils {
     public static final boolean DEBUG = true;
